@@ -6,6 +6,8 @@ import TodoList from './components/Demo4/TodoList'
 import Demo5 from './components/Demo5'
 import Demo6 from './components/Demo6'
 import Demo7 from './components/Demo7'
+import Demo8 from './components/Demo8'
+import Demo9 from './components/Demo9'
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Demo5 />
       <Demo6 />
       <Demo7 />
+      <Demo8 />
+      <Demo9 />
     </div>
   );
 }
